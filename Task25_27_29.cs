@@ -5,19 +5,6 @@
 //3, 5 -> 243 (3⁵)
 //2, 4 -> 16
 
-Console.WriteLine("Ввведите число A: ");
-int A = int.Parse(Console.ReadLine()!);
-
-
-if (num < 100 || num > 1000)
-{
-    Console.WriteLine("Именем Империи и канцлера Палпатина! Вводи ТРЕХзначное!");
-}
-else
-{
-    int num2 = (num % 100) / 10;
-    Console.WriteLine($"Вторая цифра числа - {num2}");
-}*/
 
 
 
