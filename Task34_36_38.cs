@@ -43,14 +43,14 @@ void PrintArr(int[] numbers)
 //[3, 7, 23, 12] -> 19
 //[-4, -6, 89, 6] -> 0
 
-/* Console.WriteLine("Сколько чисел должно быть в массиве:  ");
+/*Console.WriteLine("Сколько чисел должно быть в массиве:  ");
 int size = Convert.ToInt32(Console.ReadLine());
 int[] numbers = new int[size];
 FillArr(numbers); PrintArr(numbers);
 
 // поиск четных и их суммы
 int sum = 0;
-for (int x = 0; x < numbers.Length; x = x + 2)
+for (int x = 1; x < numbers.Length; x=x+2)
     sum = sum + numbers[x];
 Console.WriteLine($" -> {sum}");
 
@@ -72,7 +72,7 @@ void PrintArr(int[] numbers)
         Console.Write(numbers[i] + " ");
     }
     Console.Write("]");
-} */
+}*/
 
 
 //{===================================================================================================}
