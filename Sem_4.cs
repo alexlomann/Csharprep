@@ -1,5 +1,5 @@
 ﻿
-Console.WriteLine("Input number: ");
+/*Console.WriteLine("Input number: ");
 int A = int.Parse(Console.ReadLine()!);
 Console.WriteLine($"Sum numbers:  = {GetSum(A)}");
 
@@ -10,4 +10,4 @@ int GetSum (int limit){
 
     }
       return sum;  
-}
+}*/
