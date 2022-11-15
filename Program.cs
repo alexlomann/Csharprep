@@ -58,7 +58,7 @@ else{
 }*/
 
 
-int num1 = int.Parse(Console.ReadLine()!);
+/*int num1 = int.Parse(Console.ReadLine()!);
 int num2 = int.Parse(Console.ReadLine()!);
 
 if ((num1 == Math.Pow(num2,2) || num2 == Math.Pow(num1,2))){
@@ -66,4 +66,4 @@ if ((num1 == Math.Pow(num2,2) || num2 == Math.Pow(num1,2))){
 }
 else{
     Console.Write($"Число {num1} квадрат {num2}");
-}
+}*/
